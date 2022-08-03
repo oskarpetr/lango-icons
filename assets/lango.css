@@ -1,9 +1,10 @@
 @font-face {
     font-family: "lango";
-    src: url("./lango.ttf?5c5a76e91e1baa6c2fb6925f4beaa50b") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/oskarpetr/lango-icons/assets/lango.ttf") format("truetype");
 }
 
-i[class^="la-"]:before, i[class*=" la-"]:before {
+i[class^="la-"]:before,
+i[class*=" la-"]:before {
     font-family: lango !important;
     font-style: normal;
     font-weight: normal !important;

@@ -10,6 +10,12 @@
         "type": "git",
         "url": "git+https://github.com/oskarpetr/optical-icons.git"
     },
+    "keywords": [
+        "icon",
+        "icons",
+        "svg",
+        "font"
+    ],
     "author": "Oskar Petr",
     "license": "MIT",
     "bugs": {
