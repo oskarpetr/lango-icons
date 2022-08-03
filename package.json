@@ -1,0 +1,22 @@
+{
+    "name": "lango-icons",
+    "version": "1.0.0",
+    "description": "Icon family created for designers & developers ‍💻",
+    "scripts": {
+        "svg": "node src/svg.js",
+        "font": "npx fantasticon -c src/font.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/oskarpetr/optical-icons.git"
+    },
+    "author": "Oskar Petr",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/oskarpetr/optical-icons/issues"
+    },
+    "homepage": "https://github.com/oskarpetr/optical-icons#readme",
+    "dependencies": {
+        "oslllo-svg-fixer": "^2.1.2"
+    }
+}

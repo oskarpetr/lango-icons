@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "lango";
+    src: url("./lango.ttf?5c5a76e91e1baa6c2fb6925f4beaa50b") format("truetype");
+}
+
+i[class^="la-"]:before, i[class*=" la-"]:before {
+    font-family: lango !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.la-lango-logo:before {
+    content: "\f101";
+}

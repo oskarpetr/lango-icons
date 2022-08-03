@@ -1,0 +1,7 @@
+# Project
+icons-raw/
+test/
+src/
+
+# Dependency directories
+node_modules/
