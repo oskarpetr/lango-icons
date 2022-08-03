@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/oskarpetr/optical-icons.git"
+        "url": "git+https://github.com/oskarpetr/lango-icons.git"
     },
     "keywords": [
         "icon",
@@ -19,9 +19,9 @@
     "author": "Oskar Petr",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/oskarpetr/optical-icons/issues"
+        "url": "https://github.com/oskarpetr/lango-icons/issues"
     },
-    "homepage": "https://github.com/oskarpetr/optical-icons#readme",
+    "homepage": "https://github.com/oskarpetr/lango-icons#readme",
     "dependencies": {
         "oslllo-svg-fixer": "^2.1.2"
     }
